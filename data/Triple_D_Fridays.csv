@@ -1,10 +1,9 @@
-Will,Nate,Place,Date,Comments,Address,GoogleID
-9,9,Super Tortas Estilo Barrio,8/25/2017,,"2641 W Michigan St, Indianapolis, IN 46222, USA",ChIJRflE38NXa4gRz0zJxke0RPM
-8,7,Hoagies and Hops,9/1/2017,,"414 Dorman St, Indianapolis, IN 46202, USA",ChIJA8bjTotQa4gRJqnjQFzQHiI
-8,8,Garcia's Hot Dogs,9/15/2017,,"5102 E 16th St, Indianapolis, IN 46218, USA",ChIJDX0XhM1Pa4gRhHwoWU8119s
-9,9,The Tamale Place,9/22/2017,Nate: The first good tamale I've ever had--now I get it.,"5226 Rockville Rd, Indianapolis, IN 46224, USA",ChIJ3fxePvtXa4gRD56IqJMt8ZA
-,,Fat Dan's Deli,,,,
-,,Basey's B & G,,,,
+Will,Nate,Place,Date,Comments,Address,GoogleID,Category
+9,9,Super Tortas Estilo Barrio,8/25/2017,,"2641 W Michigan St, Indianapolis, IN 46222, USA",ChIJRflE38NXa4gRz0zJxke0RPM,Mexican
+8,7,Hoagies and Hops,9/1/2017,,"414 Dorman St, Indianapolis, IN 46202, USA",ChIJA8bjTotQa4gRJqnjQFzQHiI,deli
+8,8,Garcia's Hot Dogs,9/15/2017,,"5102 E 16th St, Indianapolis, IN 46218, USA",ChIJDX0XhM1Pa4gRhHwoWU8119s,hot dogs
+9,9,The Tamale Place,9/22/2017,Nate: The first good tamale I've ever had--now I get it.,"5226 Rockville Rd, Indianapolis, IN 46224, USA",ChIJ3fxePvtXa4gRD56IqJMt8ZA,Mexican
+9,9,Basey's B & G,10/13/2017,"419 S West St, Indianapolis, IN 46225",ChIJFWzOBq9Qa4gRCh4qIieICUo,wings
 ,,His Place,,,,
 ,,Working Man's Friend,,,,
 ,,Rock-Cola,,,,
