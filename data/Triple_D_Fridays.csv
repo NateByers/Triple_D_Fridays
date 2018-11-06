@@ -1,20 +1,20 @@
-Will,Nate,Place,Date,Comments,Address,GoogleID,Category,Food
-9,9,Super Tortas Estilo Barrio,8/25/2017,,"2641 W Michigan St, Indianapolis, IN 46222, USA",ChIJRflE38NXa4gRz0zJxke0RPM,dive,Mexican
-8,7,Hoagies and Hops,9/1/2017,,"414 Dorman St, Indianapolis, IN 46202, USA",ChIJA8bjTotQa4gRJqnjQFzQHiI,deli,sandwiches
-8,8,Garcia's Hot Dogs,9/15/2017,,"5102 E 16th St, Indianapolis, IN 46218, USA",ChIJDX0XhM1Pa4gRhHwoWU8119s,stand,hot dogs
-9,9,The Tamale Place,9/22/2017,Nate: The first good tamale I've ever had--now I get it.,"5226 Rockville Rd, Indianapolis, IN 46224, USA",ChIJ3fxePvtXa4gRD56IqJMt8ZA,dive,Mexican
-9,9,Basey's B & G,10/13/2017,,"419 S West St, Indianapolis, IN 46225",ChIJFWzOBq9Qa4gRCh4qIieICUo,dive,wings
-7,6,Rock-Cola,10/20/2017,"Will: Loved the Choc-ola","5730 S Brookville Rd, Indianapolis, IN 46219",ChIJU_RK3Y1Pa4gRBqMtXNqkeNs,dive,burgers
-7,7.5,Ice House,10/27/2017,,"2352 S West St, Indianapolis, IN 46225",ChIJU28amRhaa4gRi6EQuPCiYOc,dive,pork tenderloin
-9,9,His Place,11/17/2017,,"6916 E 30th St, Indianapolis, IN 46219",ChIJB32sqIVOa4gRpdggHAp2b_o,diner,country fried steak
-8,7,Maxine's Chicken and Waffles,12/01/2017,,"132 East Street, Indianapolis, IN 46204",ChIJM6HT75NQa4gR31d2IIiIr_w,diner,chicken and waffles
-8,8,Working Man's Friend,12/08/2017,,"234 N Belmont Ave, Indianapolis, IN 46222",ChIJXwHvjWlXa4gR9JPPJwJXC1k,dive,burger
-7,7,South of Chicago Pizza & Beef,1/5/2018,,"619 Virginia Ave, Indianapolis, IN 46203",ChIJ_XYxY5tQa4gRBpabgYcJ8FI,dive,pizza
-10,8,Nick's Chili Parlor,1/18/2018,,"2621 Lafayette Rd, Indianapolis, IN 46222",ChIJHV57ZvhWa4gRcNyukcTcu6E,parlor,chili
-8,7,Goodfellas Pizzeria,1/26/2018,,"545 Massachusetts Ave, Indianapolis, IN 46204",ChIJyxOFWOtQa4gRPj0KjPncbvw,pizzeria,pizza
-8,8,John's Famous Stew,2/09/2018,,"1146 Kentucky Ave, Indianapolis, IN 46221",ChIJZxrzSv5Za4gRwf1C3eEKMgM,diner,stew
-8,7,Steer-In,2/16/2018,,"5130 E 10th St, Indianapolis, IN 46219",ChIJ9wleX8VPa4gRYbMs15nzScA,diner,chicken liver
-7,8,Papa Roux,,"8950 E 10th St, Indianapolis, IN 46219",ChIJBY92JdNIa4gRt-hpyXlOfdQ,cajun
-9,5,Kountry Kitchen,,"1831 N College Ave, Indianapolis, IN 46202",ChIJBXQ0LP1Qa4gROYuS_XxIf7w,soul food
-,,Mann's Grill,,,"1214 S Tibbs Ave, Indianapolis, IN 46241",ChIJh7QjsixYa4gRGHb5lH3mT0Y,,
-,,The Great Divide,,,"743 E New York St, Indianapolis, IN 46202",ChIJc7hynY1Qa4gRHbM92XPPGM4,,
+Will,Nate,Joe,Place,Date,Comments,Address,GoogleID,Category,Food
+9,9,,Super Tortas Estilo Barrio,8/25/2017,,"2641 W Michigan St, Indianapolis, IN 46222, USA",ChIJRflE38NXa4gRz0zJxke0RPM,dive,Mexican
+8,7,,Hoagies and Hops,9/1/2017,,"414 Dorman St, Indianapolis, IN 46202, USA",ChIJA8bjTotQa4gRJqnjQFzQHiI,deli,sandwiches
+8,8,,Garcia's Hot Dogs,9/15/2017,,"5102 E 16th St, Indianapolis, IN 46218, USA",ChIJDX0XhM1Pa4gRhHwoWU8119s,stand,hot dogs
+9,9,,The Tamale Place,9/22/2017,Nate: The first good tamale I've ever had--now I get it.,"5226 Rockville Rd, Indianapolis, IN 46224, USA",ChIJ3fxePvtXa4gRD56IqJMt8ZA,dive,Mexican
+9,9,,Basey's B & G,10/13/2017,,"419 S West St, Indianapolis, IN 46225",ChIJFWzOBq9Qa4gRCh4qIieICUo,dive,wings
+7,6,,Rock-Cola,10/20/2017,"Will: Loved the Choc-ola","5730 S Brookville Rd, Indianapolis, IN 46219",ChIJU_RK3Y1Pa4gRBqMtXNqkeNs,dive,burgers
+7,7.5,,Ice House,10/27/2017,,"2352 S West St, Indianapolis, IN 46225",ChIJU28amRhaa4gRi6EQuPCiYOc,dive,pork tenderloin
+9,9,,His Place,11/17/2017,,"6916 E 30th St, Indianapolis, IN 46219",ChIJB32sqIVOa4gRpdggHAp2b_o,diner,country fried steak
+8,7,,Maxine's Chicken and Waffles,12/01/2017,,"132 East Street, Indianapolis, IN 46204",ChIJM6HT75NQa4gR31d2IIiIr_w,diner,chicken and waffles
+8,8,,Working Man's Friend,12/08/2017,,"234 N Belmont Ave, Indianapolis, IN 46222",ChIJXwHvjWlXa4gR9JPPJwJXC1k,dive,burger
+7,7,,South of Chicago Pizza & Beef,1/5/2018,,"619 Virginia Ave, Indianapolis, IN 46203",ChIJ_XYxY5tQa4gRBpabgYcJ8FI,dive,pizza
+10,8,,Nick's Chili Parlor,1/18/2018,,"2621 Lafayette Rd, Indianapolis, IN 46222",ChIJHV57ZvhWa4gRcNyukcTcu6E,parlor,chili
+8,7,,Goodfellas Pizzeria,1/26/2018,,"545 Massachusetts Ave, Indianapolis, IN 46204",ChIJyxOFWOtQa4gRPj0KjPncbvw,pizzeria,pizza
+8,8,,John's Famous Stew,2/09/2018,,"1146 Kentucky Ave, Indianapolis, IN 46221",ChIJZxrzSv5Za4gRwf1C3eEKMgM,diner,stew
+8,7,,Steer-In,2/16/2018,,"5130 E 10th St, Indianapolis, IN 46219",ChIJ9wleX8VPa4gRYbMs15nzScA,diner,chicken liver
+7,8,,Papa Roux,,"8950 E 10th St, Indianapolis, IN 46219",ChIJBY92JdNIa4gRt-hpyXlOfdQ,cajun
+9,5,,Kountry Kitchen,,"1831 N College Ave, Indianapolis, IN 46202",ChIJBXQ0LP1Qa4gROYuS_XxIf7w,soul food
+,,,Mann's Grill,,,"1214 S Tibbs Ave, Indianapolis, IN 46241",ChIJh7QjsixYa4gRGHb5lH3mT0Y,,
+9,9,8.75,The Great Divide,11/6/2018,"Will: order more than just the soup for lunch","743 E New York St, Indianapolis, IN 46202",ChIJc7hynY1Qa4gRHbM92XPPGM4,dive,soup/burgers/potato-salad
